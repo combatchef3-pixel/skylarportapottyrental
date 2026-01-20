@@ -1,0 +1,51 @@
+<br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 0px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">How many portable toilets do I need for my event?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The general rule of thumb is one portable toilet for every 50 guests for an event lasting up to four hours. If your event serves alcohol or lasts longer, you will need to increase that number. For construction sites, OSHA recommends one unit for every 10 workers to ensure adequate access and sanitation.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How much does a porta potty rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The price varies significantly based on location, type of unit, and rental duration. A standard unit typically costs less than a luxury portable toilet rental cost. For an accurate estimate, it is best to request a quote that factors in delivery fees, service frequency, and specific local taxes.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do I need a permit to rent a portable toilet?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">In many cases, you do not need a permit if the unit is placed on private property. However, if you plan to place the portable toilet on rent on a public street or sidewalk, most cities require a permit. It is essential to check with your local municipal office or ask us for guidance regarding local regulations.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How often should the units be serviced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For standard weekly rentals on construction sites, we service the units once a week. For high-traffic events, daily or even twice-daily service may be required to maintain cleanliness. We can customize the cleaning schedule based on the volume of usage and your specific hygiene requirements.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can portable toilets be placed anywhere?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Ideally, units should be placed on a level, dry surface that is easily accessible for our service trucks. We need to get within 10-15 feet of the unit to pump it out safely. We cannot place units on steep slopes, soft mud, or areas that are blocked by obstacles or low-hanging branches.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Do your rentals include hand washing stations?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard units typically come with hand sanitizer dispensers, but they do not always include a sink. We strongly recommend renting separate portable sinks or upgrading to units with internal sinks for better hygiene. This is especially important for food festivals or events where food is being served.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+    
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
